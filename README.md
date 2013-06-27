@@ -16,12 +16,18 @@ Acoustic
 * [Braddigan](http://www.youtube.com/watch?v=M3NEuc9UiSk)
 * [Cassino](http://www.youtube.com/watch?v=LORUcBFNF3I)
 * [City and Colour](https://www.youtube.com/watch?v=AaYecSQlT84)
+* [Damien Rice]()
 
 Metalcore
 ---------
 * [All That Remains](https://www.youtube.com/watch?v=raRHUG0PkQU)
 * [As I Lay Dying](https://www.youtube.com/watch?v=5SHFUSI0CBA)
 * [Chimaira](http://www.youtube.com/watch?v=gIScWpfZ2Z4)
+* [Deadlock]()
+* [Destroy the Runner]()
+* [Diecast]()
+* [Dry Kill Logic]()
+* [Emmure]()
 * [Heaven Shall Burn](https://www.youtube.com/watch?v=ochrScjsc7Q)
 * [Killswicht Engage](https://www.youtube.com/watch?v=OoQrwKJtv_c)
 * [Sylosis](https://www.youtube.com/watch?v=qXdPoL1yQsA)
@@ -52,6 +58,10 @@ Emo & Screamo
 * [Chunk! NO, Captain Chunk!](http://www.youtube.com/watch?v=o7Z7kUBJ2hY)
 * [Circa Survive](http://www.youtube.com/watch?v=TEBpm0lZdYs)
 * [Cute Is What We Aim For](http://www.youtube.com/watch?v=UAQcNo9yWbM)
+* [Dead By April]()
+* [Enter Shikari]()
+* [Four Year Strong]()
+* [Funeral For A Friend]()
 * [Memphis May Fire](http://www.youtube.com/watch?v=oPi_ifScn0w)
 * [Red Jumpsuit Aparatus](http://www.youtube.com/watch?v=ZhjUq7YvF88)
 * [The Spill Canvas](http://www.youtube.com/watch?v=1sVNlNiSBuc)
@@ -73,7 +83,7 @@ Folk
 ----
 * [Belle & Sebastian](http://www.youtube.com/watch?v=2H56B0Eslfs)
 * [Frank Turner](http://www.youtube.com/watch?v=gfGLzDQ7e-k)
-* []()
+
 * []()
 
 Industrial
@@ -90,6 +100,9 @@ Other
 * [Cartel](http://www.youtube.com/watch?v=_ZgfzUd7gNs)
 * [Cake](http://www.youtube.com/watch?v=w2zPD_fYlHE)
 * [Copeland](http://www.youtube.com/watch?v=rBc0Df_RQ5c)
+* [Eisly]()
+* [Elliot Minor]()
+* [Emery]()
 * [Jimmy Eat World](http://www.youtube.com/watch?v=9qPw4kv43gk)
 * [Paramore](http://www.youtube.com/watch?v=aCyGvGEtOwc)
 * [The Hush Sound](http://www.youtube.com/watch?v=BFjw4IAkQEQ)

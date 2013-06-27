@@ -72,4 +72,4 @@ Other
 * Paramore
 * Jimmy Eat World
 * 1997
-* `Alexisonfire <https://www.youtube.com/watch?v=PPcds3jOhRQ>`_
+* (Alexisonfire)[https://www.youtube.com/watch?v=PPcds3jOhRQ>]

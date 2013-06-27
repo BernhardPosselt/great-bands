@@ -7,11 +7,11 @@ Punk Rock
 ---------
 * Yellow Card
 
-
 Acoustic
 --------
 * City and Colour
 * Ben Howard
+* Angus & Julia Stone
 
 Metalcore
 ---------
@@ -26,6 +26,8 @@ Death Metal
 * Amon Amarth
 * Arch Enemy
 * Suicide Silence
+* All Shall Perish
+* Arsis
 
 Emo
 ---
@@ -37,10 +39,27 @@ Emo
 * We Came As Romans
 * Capture the Crown
 * Red Jumpsuit Aparatus
+* 30 Seconds To Mars
+* A Change Of Pace
+* A Day To Remember
+* All Time Low
+* Anberlin
+* Armor For Sleep
+* Avenged Sevenfold
 
 Alternative
 -----------
 * Breed 77
+* 10 Years
+* A perfect circle
+* Incubus
+* Rise Against
+* Alter Bridge
+* Audrey Horne
+
+Industrial
+----------
+* Angelspit
 
 Other
 -----
@@ -52,3 +71,5 @@ Other
 * Bayside
 * Paramore
 * Jimmy Eat World
+* 1997
+* Alexisonfire

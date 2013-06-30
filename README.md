@@ -84,8 +84,6 @@ Folk
 * [Belle & Sebastian](http://www.youtube.com/watch?v=2H56B0Eslfs)
 * [Frank Turner](http://www.youtube.com/watch?v=gfGLzDQ7e-k)
 
-* []()
-
 Industrial
 ----------
 * [Angelspit](http://www.youtube.com/watch?v=eEWdRswchGo)
